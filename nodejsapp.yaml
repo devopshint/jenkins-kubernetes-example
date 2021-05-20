@@ -30,6 +30,7 @@ metadata:
 spec:
   selector:
     app: nodejs-app
+  type: LoadBalancer
   ports:
   - name: http
     targetPort: 3000
