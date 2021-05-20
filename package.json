@@ -1,0 +1,12 @@
+{
+    "name": "Docker_NodeJS_App",
+    "version": "0.1",
+    "description": "Node.js Application with Docker",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
